@@ -25,8 +25,8 @@ npm run build
 
 ## Snapshots
 
-<img src="./Submission_page.png" style="width: 100%; height:100%;" />
-
+<img src="./Submission_page.png" style="width: 80%; height:100%;" />
+<img src="./Solution_page.png" style="width: 80%; height:100%;" />
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
