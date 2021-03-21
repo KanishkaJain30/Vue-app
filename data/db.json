@@ -1,0 +1,74 @@
+{
+    "songs": [
+    {
+        "id": "1",
+        "Problem_Name": "New Colony",
+        "Result":" CORRECT_ANSWER",
+        "Time_Taken":"300",
+        "Memory_Taken":"0",
+        "Date":"Mar/20/2021 21:49",
+        "code":
+       " #include <iostream>\n#include <bits/stdc++.h>\nusing namespace std;\nint main()\n{\nint t;\ncin>>t;\nwhile(t--)\n{\nint n;\ncin>>n;\nint a[n];\nint b[101]={0};\nvector<int>v;\nfor(int i=0;i<n;i++)\n{\ncin>>a[i];\nint x=a[i];\nif(b[a[i]]==0)\n a[i]=-1;\n b[x]++;\n}\n}\nreturn 0;\n"
+
+      
+    },
+    {
+        "id": "2",
+        "Problem_Name": "Maximum Width",
+        "Result":" CORRECT_ANSWER",
+        "Time_Taken":"78",
+        "Memory_Taken":"1500",
+        "Date":"Apr/20/2021 21:49",
+        "code":
+       " #include <iostream>\n#include <bits/stdc++.h>\nusing namespace std;\nint main()\n{\nint t;\ncin>>t;\nwhile(t--)\n{\nint n;\ncin>>n;\nint a[n];\nint b[101]={0};\nvector<int>v;\nfor(int i=0;i<n;i++)\n{\ncin>>a[i];\nint x=a[i];\nif(b[a[i]]==0)\n a[i]=-1;\n b[x]++;\n}\n}\nreturn 0;\n"
+      
+    },
+    {
+        "id": "3",
+        "Problem_Name": "Tuple Sort",
+        "Result":"WRONG_ANSWER",
+        "Time_Taken":"129",
+        "Memory_Taken":"150",
+        "Date":"Mar/03/2021 21:49",
+        "code":
+       " #include <iostream>\n#include <bits/stdc++.h>\nusing namespace std;\nint main()\n{\nint t;\ncin>>t;\nwhile(t--)\n{\nint n;\ncin>>n;\nint a[n];\nint b[101]={0};\nvector<int>v;\nfor(int i=0;i<n;i++)\n{\ncin>>a[i];\nint x=a[i];\nif(b[a[i]]==0)\n a[i]=-1;\n b[x]++;\n}\n}\nreturn 0;\n"
+      
+    },
+    {
+        "id": "4",
+        "Problem_Name": "Number Mirror",
+        "Result":"WRONG_ANSWER",
+        "Time_Taken":"130",
+        "Memory_Taken":"1200",
+        "Date":"Mar/20/2020 21:49",
+        "code":
+       " #include <iostream>\n#include <bits/stdc++.h>\nusing namespace std;\nint main()\n{\nint t;\ncin>>t;\nwhile(t--)\n{\nint n;\ncin>>n;\nint a[n];\nint b[101]={0};\nvector<int>v;\nfor(int i=0;i<n;i++)\n{\ncin>>a[i];\nint x=a[i];\nif(b[a[i]]==0)\n a[i]=-1;\n b[x]++;\n}\n}\nreturn 0;\n"
+      
+    },
+    {
+        "id": "5",
+        "Problem_Name": "First and Last digit",
+        "Result":"TIME_LIMIT_EXCEEDED",
+        "Time_Taken":"13000",
+        "Memory_Taken":"1200",
+        "Date":"Mar/20/2021 21:49",
+        "code":
+       " #include <iostream>\n#include <bits/stdc++.h>\nusing namespace std;\nint main()\n{\nint t;\ncin>>t;\nwhile(t--)\n{\nint n;\ncin>>n;\nint a[n];\nint b[101]={0};\nvector<int>v;\nfor(int i=0;i<n;i++)\n{\ncin>>a[i];\nint x=a[i];\nif(b[a[i]]==0)\n a[i]=-1;\n b[x]++;\n}\n}\nreturn 0;\n"
+      
+    },
+    {
+        "id": "6",
+        "Problem_Name": "First and Second digit",
+        "Result":"MEMORY_LIMIT_EXCEEDED",
+        "Time_Taken":"130",
+        "Memory_Taken":"12000",
+        "Date":"Mar/20/2021 21:49",
+        "code":
+       " #include <iostream>\n#include <bits/stdc++.h>\nusing namespace std;\nint main()\n{\nint t;\ncin>>t;\nwhile(t--)\n{\nint n;\ncin>>n;\nint a[n];\nint b[101]={0};\nvector<int>v;\nfor(int i=0;i<n;i++)\n{\ncin>>a[i];\nint x=a[i];\nif(b[a[i]]==0)\n a[i]=-1;\n b[x]++;\n}\n}\nreturn 0;\n"
+      
+    }
+
+
+    
+  ]
+}
