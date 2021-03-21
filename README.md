@@ -25,7 +25,7 @@ npm run build
 
 # Snapshots
 
-
+<img src="./submission_page.png" style="width: 100%; height:100%;" />
 
 ```
 
